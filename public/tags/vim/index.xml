@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on Smarak Das</title>
+    <link>/tags/vim/</link>
+    <description>Recent content in vim on Smarak Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2021 Smarak Das</copyright>
+    <lastBuildDate>Thu, 25 Feb 2021 20:47:48 +0530</lastBuildDate><atom:link href="/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim for Flutter</title>
+      <link>/posts/vim-for-flutter/</link>
+      <pubDate>Thu, 25 Feb 2021 20:47:48 +0530</pubDate>
+      
+      <guid>/posts/vim-for-flutter/</guid>
+      <description>Introduction I am Flutter developer and I love vim.
+Requirements  Vim or Neovim. I personally use Neovim because I just happen to like it. Vim-plug Dart and Flutter installation  Plugins  Colorscheme Treesitter for better syntax highlighting Dart Vim Plugin Coc Flutter Vimspector Vim Test Snippets(LSP) Completion(LSP)  Colorscheme Gruuuuuuvbox baby - Community version
+Treesitter Offers much better syntax highlighting
+Dart Vim Plugin Official dart plugin to integrate dart format, indentation, and a lot more</description>
+    </item>
+    
+  </channel>
+</rss>
