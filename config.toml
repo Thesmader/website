@@ -1,6 +1,7 @@
 baseurl = "/"
 theme = "terminal"
 paginate = 5
+canonifyURLs = true
 
 # [module]
   # [[module.imports]]
