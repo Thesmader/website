@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://smarakdas.com/"
 theme = "terminal"
 paginate = 5
 canonifyURLs = true
